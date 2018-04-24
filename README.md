@@ -1,13 +1,13 @@
 
-##node-qrdecode is ?
+## node-qrdecode is ?
 a qrdecode with nodejs
 
-##yuo can do this with the node-qrdecode
+## yuo can do this with the node-qrdecode
 
 * decode the qr image
 
 
-##how to use
+## how to use
 this package have used canvas@2.0, fs, so be sure that you have installed the canvas.
 
 * npm install node-qrdecode
@@ -33,13 +33,13 @@ or you can use it by async/await
 ```
 
 
-##bugs please let me know
+## bugs please let me know
 
 * email(1256136108@qq.com)
 * QQ: 1256136108
 
 
-##about author
+## about author
 
 ```javascript
   var hehe = {
