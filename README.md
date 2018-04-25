@@ -1,8 +1,11 @@
+## github here
+
+> https://github.com/lovegnep/node-qrdecode
 
 ## node-qrdecode is ?
 a qrdecode with nodejs
 
-## yuo can do this with the node-qrdecode
+## what yuo can do with the node-qrdecode
 
 * decode the qr image
 
